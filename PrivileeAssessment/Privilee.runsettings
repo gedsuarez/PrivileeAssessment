@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <RunConfiguration>
+    <EnvironmentVariables>
+		<MAP_URL>https://staging-website.privilee.ae/map</MAP_URL>
+		<HEADLESS>true</HEADLESS>
+    </EnvironmentVariables>
+  </RunConfiguration>
+</RunSettings>
